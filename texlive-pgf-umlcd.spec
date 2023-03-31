@@ -1,6 +1,6 @@
 Name:		texlive-pgf-umlcd
 Version:	63386
-Release:	1
+Release:	2
 Summary:	Some LaTeX macros for UML Class Diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd
