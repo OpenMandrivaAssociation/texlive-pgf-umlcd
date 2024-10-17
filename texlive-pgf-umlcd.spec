@@ -3,7 +3,7 @@ Version:	63386
 Release:	2
 Summary:	Some LaTeX macros for UML Class Diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgf-umlcd.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgf-umlcd.doc.r%{version}.tar.xz
